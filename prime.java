@@ -7,7 +7,7 @@ public class prime {
                 if(i%j==0) c++;
             }
             if(c == 1){
-                System.out.print(i+" ");
+                // System.out.print(i+" ");
             }
         }
     }
